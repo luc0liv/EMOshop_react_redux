@@ -1,0 +1,22 @@
+.fundo {
+    background-color: plum;
+    font-family: 'Poppins', sans-serif ;
+    margin: 20px 50px 20px 50px;
+    padding: 10px;
+
+}
+
+.fundo button {
+    background-color: black;
+    border: solid white 4px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 5px;
+    
+}
+
+.fundo li {
+    list-style: none;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jomhuria&family=Josefin+Sans&family=Katibeh&family=Poppins&display=swap');

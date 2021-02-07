@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Bebas Neue',sans-serif;
+
+}
+
+.carrinho {
+    background-color: #8B4789;
+    border: 10px dotted black;
+    border-radius: 10px;
+    margin:20px 100px 0px 100px ;
+    padding: 10px;
+    text-align: center;
+}
+
+.carrinho p {
+    background-color: #BA55D3;
+    font-family: 'Poppins', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jomhuria&family=Josefin+Sans&family=Katibeh&family=Poppins&display=swap');

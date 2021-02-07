@@ -1,0 +1,9 @@
+.bg {
+    background-color: blueviolet;
+    font-family: 'Poppins', sans-serif;
+    margin: 20px 50px 20px 50px;
+    padding: 10px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jomhuria&family=Josefin+Sans&family=Katibeh&family=Poppins&display=swap');

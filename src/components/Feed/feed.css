@@ -1,0 +1,44 @@
+.title {
+    background-color: plum;
+     margin:0px 100px 50px 100px ;
+    
+}
+.title h4 {
+   
+    color: purple;
+    font-family: 'Jomhuria', sans-serif ;
+    font-size: 50px;  
+    margin-left: 10px;
+    
+}
+
+h3 {
+    background-color: plum;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+}
+
+.albuns {
+    background-color: plum;
+    border: 10px dotted black;
+    border-radius: 10px;
+    margin:0px 100px 0px 100px ;
+    padding: 10px;
+    text-align: center;
+}
+
+.albuns li {
+    font-family: 'Poppins', sans-serif ;
+    list-style: none;
+    padding: 10px;
+}
+
+.albuns button {
+    background-color: black;
+    border: solid white 4px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 5px;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jomhuria&family=Josefin+Sans&family=Katibeh&family=Poppins&display=swap');
